@@ -260,7 +260,7 @@ export default function Projects() {
           {/* View All CTA */}
           <div className="mt-16 text-center">
             <a
-              href="https://github.com"
+              href="https://github.com/Ayushdk"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-8 py-4 border border-white/20 rounded-full text-white hover:border-[#3aff7d] hover:bg-[#3aff7d]/10 transition-all duration-300 magnetic-btn"

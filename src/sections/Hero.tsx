@@ -198,7 +198,7 @@ export default function Hero() {
         style={{ opacity: 0 }}
       >
         <a
-          href="https://github.com"
+          href="https://github.com/Ayushdk"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white/50 hover:text-[#3aff7d] transition-colors"
@@ -207,7 +207,7 @@ export default function Hero() {
           <Github className="w-5 h-5" />
         </a>
         <a
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/ayush-nagar-2a6311289/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white/50 hover:text-[#3aff7d] transition-colors"
